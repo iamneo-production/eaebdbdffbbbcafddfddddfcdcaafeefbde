@@ -64,6 +64,8 @@
     <version>2.2</version>
     <configuration>
     <port>8080</port>
+      <source>1.8</source>
+                <target>1.8</target>
     </configuration> 
         </plugin>
  
